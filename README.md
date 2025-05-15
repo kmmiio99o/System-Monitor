@@ -1,4 +1,4 @@
-# 🚀 In-time-something
+# 🚀 System Monitor
 
 A sleek system monitoring tool that displays your computer's resource usage (CPU, RAM, GPU) as a **Discord Rich Presence (RPC)** status.
 
