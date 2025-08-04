@@ -24,8 +24,8 @@ A sleek system monitoring tool that displays your computer's resource usage (CPU
 ## 🛠️ Installation
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YourUsername/In-time-something.git
-cd In-time-something
+git clone https://github.com/kmmiio99o/System-Monitor.git
+cd System-Monitor
 ```
 
 ### 2. Install dependencies
